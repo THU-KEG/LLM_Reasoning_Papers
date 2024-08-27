@@ -53,3 +53,6 @@ Papers on LLM Reasoning, mainly contributed and maintained by [Jinxin Liu](https
 
 11. **Search-in-the-Chain: Interactively Enhancing Large Language Models with Search for Knowledge-intensive Tasks**
 *Shicheng Xu, Liang Pang, Huawei Shen, Xueqi Cheng, Tat-Seng Chua* (WWW 2023) \[[paper](https://arxiv.org/pdf/2304.14732)\]
+
+12. **BeamAggR: Beam Aggregation Reasoning over Multi-source Knowledge for Multi-hop Question Answering**
+*Zheng Chu, Jingchang Chen, Qianglong Chen, Haotian Wang, Kun Zhu, Xiyuan Du, Weijiang Yu, Ming Liu, Bing Qin* (ACL2024) \[[paper](https://arxiv.org/abs/2406.19820)\]
